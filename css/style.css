@@ -1,0 +1,11 @@
+body{
+    background-color: #F5F5F5;
+    height: 100vh;
+    display: grid;                
+    grid-template-areas: 
+    "header header"
+    "nav main"
+    "nav footer";
+    grid-template-columns: 150px 1fr;
+}
+

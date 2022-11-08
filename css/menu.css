@@ -1,0 +1,11 @@
+.menu{
+   padding-left: 400px;
+    display: flex;
+    flex-direction: row;
+    gap: 35px;
+}
+
+.menu a:hover{
+    border-bottom: solid #8A2D5E;
+    
+}
